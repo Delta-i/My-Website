@@ -1,0 +1,45 @@
+* {
+    border: 1px dashed black;
+}
+
+.menubar {
+    padding: 5px;
+    display: inline-block;
+    width: 50%; /* Adjust the width as needed */
+}
+.topButtons {
+    float: right;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+
+#mainpagefeynmen {
+    float: right;
+    width: 40%; 
+    size:auto;
+    
+    padding:auto;
+    padding-right:5%
+
+}
+.mainbody{
+    display: inline-block;
+    
+}
+
+#picofme{
+    height:auto;
+    width:auto;
+    max-width: 30%;
+    float:left;
+    padding-left:auto;
+    padding-right:auto
+}
+#mainbodydesc{
+    height:auto;
+    width:auto;
+    padding-top:auto;
+    padding-inline-start: 40%;
+    font-size:auto;
+}
+
